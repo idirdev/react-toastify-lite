@@ -1,3 +1,5 @@
+> **Archived** — Kept for reference. Not part of the current portfolio.
+
 # React Toastify Lite
 
 [![npm version](https://img.shields.io/npm/v/@idirdev/react-toastify-lite.svg)](https://www.npmjs.com/package/@idirdev/react-toastify-lite)
