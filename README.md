@@ -163,3 +163,22 @@ toast.info('Custom!', {
 ## License
 
 MIT
+
+---
+
+## 🇫🇷 Documentation en français
+
+### Description
+**React Toastify Lite** est une bibliothèque légère de notifications toast pour React. Elle permet d'afficher des messages de succès, d'erreur, d'avertissement ou d'information de manière non intrusive, avec des animations fluides et une API simple.
+
+### Installation
+```bash
+npm install @idirdev/react-toastify-lite
+```
+
+### Utilisation
+```tsx
+import { toast } from "@idirdev/react-toastify-lite";
+toast.success("Opération réussie !");
+toast.error("Une erreur est survenue.");
+```
